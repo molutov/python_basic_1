@@ -1,2 +1,2 @@
 # by Bekzat 
-print("Hello, World!")
+print("Hi, World!")
